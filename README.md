@@ -21,7 +21,7 @@ A responsive website for college cultural events with galleries, calendars, and 
 ---
 
 ## About Me
-I am a UI/UX designer and B.Tech Computer Engineering student passionate about creating intuitive, visually engaging designs.  
+B.Tech Computer Engineering student passionate about creating intuitive, visually engaging designs.  
 Skills: **Figma, Canva, Prototyping, User-Centered Design**
 
 ---
